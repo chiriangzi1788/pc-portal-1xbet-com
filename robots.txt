@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chiriangzi1788.github.io/pc-portal-1xbet-com/sitemap.xml
